@@ -1,0 +1,6 @@
+{
+  "name": "TouchBizz Menu",
+  "description": "SaaS multi-tenant professionnel pour menus digitaux de restaurants accessibles par QR code et NFC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
